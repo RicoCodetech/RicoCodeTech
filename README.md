@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Soy estudiante de ingeniería informática apasionado por la tecnología y la programación. Actualmente estudio en Barcelona en la Universidad Nacional de Educación a Distancia (UNED) y me siento afortunado de estar aprendiendo de los mejores en el campo.<br><br>Mi conocimiento en programación orientada a objetos es sólido y continuamente busco nuevas formas de mejorar mis habilidades. Me interesa especialmente la tecnología blockchain y los contratos inteligentes, y estoy explorando más sobre estos temas para tener una comprensión más profunda. Además, estoy estudiando la tecnología HTML5 y cómo se puede utilizar para crear páginas web dinámicas y atractivas.<br><br>La informática es mi pasión y me entusiasma descubrir nuevas formas de utilizar la tecnología para solucionar problemas y mejorar la vida de las personas. Estoy abierto a nuevos proyectos y desafíos, y estoy seguro de que estos me permitirán aprender aún más y mejorar mis habilidades.<br><br>También tengo un fuerte conocimiento en electrónica digital y he logrado excelentes notas en este campo. Estoy seguro de que esta combinación de conocimiento y habilidades me permitirá tener éxito en cualquier proyecto en el que participe.<br><br>En resumen, soy un estudiante de ingeniería informática apasionado, dedicado y capacitado, y estoy buscando nuevas oportunidades para demostrar mis habilidades y seguir creciendo en este campo.
+
+¡Hola a todos! Soy Óscar Rico, estudiante de ingeniería informática y entusiasta programador junior, Aunque mi experiencia en este campo es limitada, me siento completamente capacitado y entusiasmado para enfrentar cualquier desafío que se cruce en mi camino.
+
 
 - [Proyecto Fabrica de muebles artesanales](enlace_al_repositorio_a): Breve descripción del Proyecto A.
 
