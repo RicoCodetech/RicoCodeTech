@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ¡Hola a todos! Soy Óscar Rico, estudiante de ingeniería informática y entusiasta programador junior, Aunque mi experiencia en este campo es limitada, me siento completamente capacitado y entusiasmado para enfrentar cualquier desafío que se cruce en mi camino.
 
+En la universidad, he tenido la oportunidad de realizar varios trabajos y prácticas de programación. Además, he emprendido proyectos por cuenta propia, a continuación, os dejo los enlaces a cada uno de ellos.
 
 - [Proyecto Fabrica de muebles artesanales](enlace_al_repositorio_a): Breve descripción del Proyecto A.
 
