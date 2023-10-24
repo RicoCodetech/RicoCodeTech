@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 En la universidad, he tenido la oportunidad de realizar varios trabajos y prácticas de programación. Además, he emprendido proyectos por cuenta propia, a continuación, os dejo los enlaces a cada uno de ellos.
 
-- [Proyecto Fabrica de muebles artesanales](enlace_al_repositorio_a): Breve descripción del Proyecto A.
+- [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras-de-datos)): En esta práctica de estrategias programación y estructuras de datos, se nos ha encomendado la tarea de implementar una interfaz llamada StockIF.java en dos estructuras distintas. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado StockTree.java
+
+- [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras-de-datos)):
 
 
 # 💻 Tech Stack:
