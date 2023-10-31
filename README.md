@@ -24,7 +24,7 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 
 - [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras-de-datos)): En esta práctica de estrategias programación y estructuras de datos, se nos ha encomendado la tarea de implementar una interfaz llamada StockIF.java en dos estructuras distintas. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado StockTree.java
 
-- [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras-de-datos)):
+- [Proyecto: HTMl5](https://github.com/RicoCodetech/web_guia_moscu)): En este proyecto...
 
 
 # 💻 Tech Stack:
