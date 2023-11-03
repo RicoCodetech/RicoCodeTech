@@ -24,7 +24,7 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 
 - [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras-de-datos)): En esta práctica de estrategias programación y estructuras de datos, se nos ha encomendado la tarea de implementar una interfaz llamada StockIF.java en dos estructuras distintas. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado StockTree.java
 
-- [Proyecto: HTMl5](https://github.com/RicoCodetech/web_guia_moscu)): El propósito principal del proyecto es crear una aplicación web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
+- [Proyecto: HTMl5](https://github.com/RicoCodetech/web_guia_moscu)): El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
 
 
 # 💻 Tech Stack:
