@@ -26,7 +26,7 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 
 - [Practica: POO Fabrica de muebles artesanales](https://github.com/RicoCodetech/Fabrica-artesanal)): Se requiere la implementación de un sistema integrado para una fábrica de muebles artesanales. tiene las funciones de; Registro de clientes, mensajes entre cliente y comercial de la fabrica y gestion de trabajos de los artesanos con seguimiento.
 
-- [Proyecto: HTMl5](https://github.com/RicoCodetech/web_guia_moscu)): El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
+- [Proyecto: HTML5](https://github.com/RicoCodetech/web_guia_moscu)): El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
 
 
 # 💻 Tech Stack:
