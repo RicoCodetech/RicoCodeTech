@@ -26,7 +26,7 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 
 ![imagen banner](/img/cityTransportGuide.png)
 
-|- [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras_de_datos)): En esta práctica de estrategias |programación y estructuras de datos, se nos ha encomendado la tarea de implementar una interfaz llamada StockIF.java en dos estructuras distintas. La ![imagen banner](/img/cityTransportGuide.png)|primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado |StockTree.java
+- [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras_de_datos)): En esta práctica de estrategias programación y estructuras de datos, se nos ha encomendado la tarea de implementar una interfaz llamada StockIF.java en dos estructuras distintas. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado |StockTree.java
 
 - [Practica: POO Fabrica de muebles artesanales](https://github.com/RicoCodetech/Fabrica-artesanal)): Se requiere la implementación de un sistema integrado para una fábrica de muebles artesanales. tiene las funciones de; Registro de clientes, mensajes entre cliente y comercial de la fabrica y gestion de trabajos de los artesanos con seguimiento.
 
