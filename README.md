@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Oscar Rico</h1>
+
 ![imagen banner](/img/banner.png)
 
 
