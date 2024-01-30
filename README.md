@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![imagen banner](/img/banner.png)
 
 
-
 # 💫 Sobre mi:
 
 ¡Hola a todos! Soy Óscar Rico, estudiante de ingeniería informática y entusiasta programador junior, Aunque mi experiencia en este campo es limitada, me siento completamente capacitado y entusiasmado para enfrentar cualquier desafío que se cruce en mi camino.
