@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-# 💫 Sobre mi:
+## 💫 Sobre mi:
 
 ¡Hola a todos! Soy Óscar Rico, estudiante de ingeniería informática y entusiasta programador junior, Aunque mi experiencia en este campo es limitada, me siento completamente capacitado y entusiasmado para enfrentar cualquier desafío que se cruce en mi camino.
 
@@ -33,14 +33,6 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 - [Proyecto: HTML5](https://github.com/RicoCodetech/web_guia_moscu)): El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
 
 ## 🛠️ **Tecnologías y Herramientas**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
-# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 🌱 **Aprendiendo actualmente...**
@@ -63,7 +55,7 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 _¡Gracias por visitar mi perfil!_ 😊
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RicoCodetech&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RicoCodetech&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoCodetech&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
