@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 💫 Sobre mi:
 
-¡Hola a todos! Soy Óscar Rico, estudiante de ingeniería informática y entusiasta programador junior, Aunque mi experiencia en este campo es limitada, me siento completamente capacitado y entusiasmado para enfrentar cualquier desafío que se cruce en mi camino.
+¡Hola a todos! Soy Óscar Rico, estudiante de ingeniería informática y entusiasta programador junior, gracias a los solidos fundamentos adquiridos durante mis estudios me siento completamente capacitado y entusiasmado para enfrentar cualquier desafío que se cruce en mi camino.
 
 En la universidad, he tenido la oportunidad de realizar varios trabajos y prácticas de programación. Además, he emprendido proyectos por cuenta propia, a continuación, os dejo los enlaces a cada uno de ellos.
 
