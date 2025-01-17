@@ -26,13 +26,24 @@ Here are some ideas to get you started:
 En la universidad, he tenido la oportunidad de realizar varios trabajos y prácticas de programación. Además, he emprendido proyectos por cuenta propia, a continuación, os dejo los enlaces a cada uno de ellos.
 
 
-- [Practica: Estrategias de programacion y estructuras](https://github.com/RicoCodetech/Estructuras_de_datos)): En esta práctica de estrategias programación y estructuras de datos, se nos ha encomendado la tarea de implementar una interfaz llamada StockIF.java en dos estructuras distintas. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado |StockTree.java
+## ✨ **Proyectos Destacados**
 
-- [Practica: POO Fabrica de muebles artesanales](https://github.com/RicoCodetech/Fabrica-artesanal)): Se requiere la implementación de un sistema integrado para una fábrica de muebles artesanales. tiene las funciones de; Registro de clientes, mensajes entre cliente y comercial de la fabrica y gestion de trabajos de los artesanos con seguimiento.
+### [Practica: Inventario en EPED](https://github.com/RicoCodetech/Estructuras_de_datos)
+Práctica en estrategias de programación y estructuras de datos, trata de implementar una interfaz en dos estructuras distintas y calcular los costes empiricos. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado StockTree.java
+- 🔹 **Tecnologías:** Java
+- 🌟 **Características clave:** Estructuras de datos y costes asintoticos.
 
-- [Proyecto: HTML5](https://github.com/RicoCodetech/web_guia_moscu)): El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
+###  [Practica: Sistema de gestion en fabrica](https://github.com/RicoCodetech/Fabrica-artesanal)
+Se requiere la implementación de un sistema integrado para una fábrica de muebles artesanales. Las funciones principales son el registro de clientes, mensajes entre cliente y comercial de la fabrica y gestion de trabajos de los artesanos con seguimiento.
+- 🔹 **Tecnologías:** Java
+- 🌟 **Características clave:** Programacion orientada a objetos
 
----
+### [Proyecto: Guia turistica](https://github.com/RicoCodetech/web_guia_moscu)
+El propósito principal del proyecto es crear una pagina web que sirva de guía a todos los viajeros que llegan a Moscú y buscan información breve y directa sobre como moverse de un lado a otro de la ciudad haciendo uso de los diferentes medios de transporte. se usaran las tecnologías de HTML, CSS y JavaScript y se planea que tenga la funcion de tienda online.
+- 🔹 **Tecnologías:** HTML5
+- 🌟 **Características clave:** Maquetacion frontend.
+  
+
 
 ## 🛠️ **Tecnologías y Herramientas**
 
@@ -42,7 +53,6 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 ![VHDL](https://img.shields.io/badge/-VHDL-FF0000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 
----
 
 ## 🌱 **Aprendiendo actualmente...**
 
