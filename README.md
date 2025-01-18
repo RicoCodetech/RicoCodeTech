@@ -60,7 +60,7 @@ El propósito principal del proyecto es crear una pagina web que sirva de guía 
 - Ingenieria de computadores **VHDL**
 - Mejora de buenas prácticas en **estructuración de proyectos** y **control de versiones** 🧩
 
----
+
 
 ## 🤝 **Conectemos**
 
