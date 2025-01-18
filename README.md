@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![imagen banner](/img/banner.png)
 
----
 
 ## 💫 Sobre mi:
 
