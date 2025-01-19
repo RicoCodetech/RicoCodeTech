@@ -27,7 +27,12 @@ En la universidad, he tenido la oportunidad de realizar varios trabajos y práct
 
 ## ✨ **Proyectos Destacados**
 
-### [Practica: Inventario en EPED](https://github.com/RicoCodetech/Estructuras_de_datos)
+### [Proyecto: Inventario](https://github.com/RicoCodetech/inventario)
+Proyecto personal que implementa un sistema de inventario básico para bebidas alcohólicas. Permite realizar operaciones CRUD integradas con bases de datos MySQL, demostrando el manejo y conexión entre un back-end modular y una base de datos. El sistema cuenta con una interfaz en línea de comandos para interactuar con las funcionalidades, aunque está diseñado como un proyecto back-end.
+- 🔹 **Tecnologías:** Java, MySQL
+- 🌟 **Características clave:** Operaciones CRUD, conexión con bases de datos, diseño modular.
+
+### [Practica: Estructuras de datos en EPED](https://github.com/RicoCodetech/Estructuras_de_datos)
 Práctica en estrategias de programación y estructuras de datos, trata de implementar una interfaz en dos estructuras distintas y calcular los costes empiricos. La primera consiste en crear una secuencia, que hemos llamado StockSequence.java, y la segunda implica la creación de un árbol general, que hemos nombrado StockTree.java
 - 🔹 **Tecnologías:** Java
 - 🌟 **Características clave:** Estructuras de datos y costes asintoticos.
